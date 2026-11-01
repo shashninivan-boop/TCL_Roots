@@ -4,7 +4,7 @@
 [CleanYourTV](https://github.com/Gathin23/cleanyourtv) с VK Видео, YouTube,
 Happ и Кинопоиском. Системные компоненты сохраняются для работы телевизора.
 Очистка использует обратимое отключение пакетов, без root и перепрошивки.
-AirPlay запланирован отдельным этапом после проверки интерфейса.
+AirPlay для iPhone и Mac: [установка и проверка](windows/AIRPLAY-RU.md).
 
 ## Для Windows
 
