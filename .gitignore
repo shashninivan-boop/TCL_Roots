@@ -1,0 +1,10 @@
+__pycache__/
+backups/
+*.apk
+*.apks
+*.xapk
+.venv/
+dist/
+work/
+backup/
+shots/

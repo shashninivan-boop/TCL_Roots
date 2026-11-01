@@ -1,0 +1,10 @@
+# First batch: unwanted entertainment apps present in the owner's inventory.
+# Disable with upstream tools/disable.ps1. Never uninstall.
+# Required apps, other VPNs, stock Home and system services are not listed.
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+au.com.stan.and
+tv.wuaki.apptv
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.videos
